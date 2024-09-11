@@ -96,3 +96,25 @@ body {
   color: #f3eed9;
   margin-bottom: 0;
 }
+
+/* Third Section */
+
+.third-row {
+  background-color: #824936;
+  color: #fff;
+  padding: 4rem 0;
+}
+
+.third-row__text,
+.third-row__img {
+  width: 47%;
+}
+
+.third-row__text h2 {
+  margin-top: 0.4rem;
+  font-family: "Playfair", serif;
+  font-weight: 900;
+  font-size: 36px;
+  color: #f3eed9;
+  margin-bottom: 0;
+}
